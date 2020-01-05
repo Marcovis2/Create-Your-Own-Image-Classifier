@@ -1,4 +1,4 @@
-# Image classifier with Python Project
+# Image classifier with PyTorch
 
-Code for an image classifier built with PyTorch, then convert it into a command line application.
+Code for an image classifier built with PyTorch, including command line application.
 
